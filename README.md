@@ -92,6 +92,6 @@ This a a website, where we can control all the management related to a hospital 
 
 ## Developed By
 
-- [@Shiva Teja](https://github.com/Shivateja9876)
+- [@Dileep](https://github.com/dileep-1718)
 
 
